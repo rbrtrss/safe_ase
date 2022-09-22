@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.1' 
+VERSION = '0.0.2' 
 DESCRIPTION = 'safe_ase'
 LONG_DESCRIPTION = 'helper functions wrapping ase fucntions that dont overwrite original structure'
 
