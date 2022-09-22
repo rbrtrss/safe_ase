@@ -2,8 +2,7 @@ from setuptools import setup, find_packages
 
 VERSION = '0.0.1' 
 DESCRIPTION = 'safe_ase'
-LONG_DESCRIPTION = """ helper functions wrapping ase fucntions that dont overwrite 
-original structure"""
+LONG_DESCRIPTION = 'helper functions wrapping ase fucntions that dont overwrite original structure'
 
 # Setting up
 setup(
