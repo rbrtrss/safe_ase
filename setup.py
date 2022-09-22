@@ -17,9 +17,7 @@ setup(
         packages=find_packages(),
         install_requires=[
             'ase',
-            'copy'
         ],
-        
         keywords=['python', 'first package'],
         classifiers= [
             "Development Status :: 3 - Alpha",
